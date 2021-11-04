@@ -1,7 +1,8 @@
 # 1. 서울시 cctv 현황
 1) 구글에서 "서울시 cctv 현황" 검색하여 "서울시 자치구 년도별 CCTV 설치 현황" 페이지에서 서울시CCTV설치운영현황(자치구)_년도별_210731기준.csv 다운로드
 2) 다운로드된 .csv 파일 열어서 내용 확인
-3) https://colab.research.google.com/github/doomba32/python/blob/main/서울시CCTV현황.ipynb 실행하여  cctv 현황 및 인구통계를 python 으로 확인
+3) https://colab.research.google.com/github/doomba32/python/blob/main/서울시CCTV현황.ipynb 실행하여 python 으로 확인
+   (선생님이 미리 서버에 올려놓은 .csv 파일 사용)
 
 
 # 2. 서울시 인구통계
