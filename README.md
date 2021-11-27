@@ -12,4 +12,7 @@
 # 3. 경기도 맛집현황
 1) 구글에서 "경기도 맛집현황" 검색하여 "경기데이터드림" 사이트에서 파일변환저장 아래의 "csv" 버튼 눌러 "맛집현황.csv" 다운로드
 2) "맛집현황.csv" 파일을 열어서 방문해 본 맛집이 있는지 확인
-3) 실행 하여 맛집현황을 python 으로 확인
+3) https://colab.research.google.com/github/doomba32/python/blob/main/경기도맛집현황.ipynb 실행 하여 맛집현황을 python 으로 확인
+
+# 4. 경기도 맛집지도
+1) 
